@@ -1,4 +1,5 @@
 # Doctor Appointment System
+![home](https://github.com/AhmedMahsen001/Doctor-Appointment-System/assets/168204003/652b84b4-a025-455b-814a-249e795290ef)
 Welcome to the Doctor Appointment System repository! This system is built using C# and MSSQL database and follows a user-centered approach, allowing patients to book their own medical appointments hassle-free.The system comprises three key roles: administrator, doctor, and patient. The system admin will populate the list of the doctors with their specialties and along with the doctor's details and system credentials. The patients can browse the doctor's appointment system to find a doctor that has the specialty of their needs. Patients can review the doctor's schedule, enabling them to select a suitable day and time for their appointment. Subsequently, they can submit their appointment request. After that, the doctors can view all their appointments and the appointment request of the patients for their availability.
 
 ## Features
@@ -38,7 +39,7 @@ Welcome to the Doctor Appointment System repository! This system is built using 
 1. Extract the downloaded source code zip file.
 2. Set up the MSSQL database by making sure that sql server is running.
 3. Open the solution file in Visual Studio.
-4. update your database connection in the server solution to .Net framework(sql client) and import your database. 
+4. Add your database connection in the server solution to .Net framework(sql client),select Microsof sql server Database file as your Data Source and import your database. 
 5. Update the database connection string in every csharp form to point to your MSSQL database.
 6. Build and run the application.
 
