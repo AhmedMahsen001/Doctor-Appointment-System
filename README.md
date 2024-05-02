@@ -2,7 +2,7 @@
 Welcome to the Doctor Appointment System repository! This system is built using C# and MSSQL database and follows a user-centered approach, allowing patients to book their own medical appointments hassle-free.The system comprises three key roles: administrator, doctor, and patient. The system admin will populate the list of the doctors with their specialties and along with the doctor's details and system credentials. The patients can browse the doctor's appointment system to find a doctor that has the specialty of their needs. Patients can review the doctor's schedule, enabling them to select a suitable day and time for their appointment. Subsequently, they can submit their appointment request. After that, the doctors can view all their appointments and the appointment request of the patients for their availability.
 
 # Features
-** Admin
+## Admin
 * Admin can add, edit, delete doctors and patients
 * Schedule new doctors sessions, remove sessions
 * View patients and doctors details
@@ -10,14 +10,14 @@ Welcome to the Doctor Appointment System repository! This system is built using 
 * view patients feedback
 * Download report of Appointments
   
-** Doctors
+## Doctors
 * View their Appointment
 * View their scheduled sessions
 * View details of patients
 * edit account settings
 * Add prescriptions for patients
   
-** Patients
+## Patients
 * Book appointment 
 * Create account
 * View their bookings
@@ -30,7 +30,7 @@ Welcome to the Doctor Appointment System repository! This system is built using 
 * MSSQL database for data storage
 * .NET Framework for application development
 
-**** Admin details 
+### Admin details 
 Username: Admin
 Password: Password
 
@@ -42,9 +42,9 @@ Password: Password
 5. Update the database connection string in every csharp form to point to your MSSQL database.
 6. Build and run the application.
 
-# Contributors
-AHMED MAHSEN 
-CONTACTS: +254746533010
+### Contributors
+Name: Ahmed Mahsen
+[AhmedMahsen001](https://github.com/AhmedMahsen001)
 
 # License
 This project is open-source. You are free to use, modify, and distribute it as per your requirements.
